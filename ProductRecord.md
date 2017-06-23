@@ -132,10 +132,6 @@ https://gist.github.com/GSMADeveloper/4c2fc701cf2bf121b360613cf27ba8d4
       "value": 1.7
     }
   },
-  "dateObserved": {
-    "value": "2016-08-08T10:18:16Z",
-    "type": "DateTime"
-  },
   "O2": {
     "type": "ExtQuantitativeValue",
     "value": {
