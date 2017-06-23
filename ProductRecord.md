@@ -100,10 +100,6 @@ https://gist.github.com/GSMADeveloper/4c2fc701cf2bf121b360613cf27ba8d4
       "value": 1006.19
     }
   },
-  "dateObserved": {
-    "value": "2016-08-08T10:00:00Z",
-    "type": "DateTime"
-  },
   "description": {
     "type": "Text",
     "value": "Palm oil consignment arrived at port for shipment"
@@ -131,6 +127,10 @@ https://gist.github.com/GSMADeveloper/4c2fc701cf2bf121b360613cf27ba8d4
       "unitCode": "MTQ",
       "value": 1.7
     }
+  },
+  "dateObserved": {
+    "value": "2016-08-08T10:00:00Z",
+    "type": "DateTime"
   },
   "O2": {
     "type": "ExtQuantitativeValue",
