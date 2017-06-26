@@ -151,7 +151,7 @@ https://gist.github.com/GSMADeveloper/0817901a9f8ae3440ab751513acdf88e
     "value": "00786613"
   },
   "Image": {
-    "type": "URL",
+    "type": "List",
     "value": [
       "http://example.com/productImg1.jpg",
       "http://example.com/productImg2.jpg"
