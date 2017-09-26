@@ -34,7 +34,7 @@ associated with the agricultural vertical and related IoT applications.
 
 The JSON code can be downloaded from:
 
-https://gist.github.com/GSMADeveloper/xxxx
+https://gist.github.com/GSMADeveloper/f4b694612a8d5c234632d1746865376c
 
 ``` json
 {

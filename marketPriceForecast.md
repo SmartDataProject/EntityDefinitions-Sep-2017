@@ -34,7 +34,7 @@ applications.
 
 The JSON code can be downloaded from:
 
-https://gist.github.com/GSMADeveloper/xxxx
+https://gist.github.com/GSMADeveloper/971cc478edf6c534b3cd33084d0f0e07
 
 ``` json
 {
